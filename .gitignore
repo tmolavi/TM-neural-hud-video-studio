@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Media & Video Binaries (Hosted on molavi.pro CDN)
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+output/
+tmp/
+temp/
+
+# Testing & Linting
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environment & OS
+.env
+.env.local
+.DS_Store
+Thumbs.db
