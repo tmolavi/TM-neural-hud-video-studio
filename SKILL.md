@@ -7,6 +7,16 @@ source: official
 author: Taqi Molavi
 version: "1.0.0"
 triggers:
+  - "مهارت ساخت ویدئو اچ تی ام تی"
+  - "مهارت ساخت ویدیو اچ تی ام تی"
+  - "مهارت ساخت ویدیو html"
+  - "مهارت ساخت ویدئو html"
+  - "مهارت ساخت ویدیو اچ تی ام ال"
+  - "مهارت ساخت ویدئو اچ تی ام ال"
+  - "ساخت ویدئو اچ تی ام تی"
+  - "ساخت ویدیو اچ تی ام تی"
+  - "ساخت ویدیو html"
+  - "ساخت ویدئو html"
   - "neural hud video studio"
   - "neural-hud-video-studio"
   - "رندر ویدیوی هاد"
@@ -17,6 +27,7 @@ triggers:
 ---
 
 # Neural HUD Video Studio (`neural-hud-video-studio`)
+# مهارت ساخت ویدیو اچ تی ام ال / مهارت ساخت ویدئو اچ تی ام تی
 
 > **Autonomous Broadcast Telemetry & Video Engine for AI Repositories**  
 > Developed by **Taqi Molavi** ([molavi.pro](https://molavi.pro)) • Inten Digital Marketing Suite ([inten.asia](https://inten.asia))
